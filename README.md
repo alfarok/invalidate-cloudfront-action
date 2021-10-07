@@ -1,3 +1,3 @@
-# Invalidate Cloudfront action
+# GitHub Action to Invalidate Cloudfront Distribution
 
-A GitHub Workflow Action which invalidates the given Cloudfront distribution paths.
+This simple action uses [AWS CLI](https://docs.aws.amazon.com/cli/index.html) to invalidate the given Cloudfront distribution paths.
