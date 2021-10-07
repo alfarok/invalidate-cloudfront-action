@@ -1,6 +1,6 @@
 name: 'Invalidate Cloudfront'
 description: 'Invalidate Cloudfront distribution paths'
-author: 'Pixelcop Research, Inc.'
+author: 'alfarok'
 branding:
   icon: 'cloud-lightning'
   color: 'orange'
